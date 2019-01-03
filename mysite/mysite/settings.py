@@ -106,7 +106,7 @@ AUTH_PASSWORD_VALIDATORS = [
 # Changed the time zone to PDT
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'PST'
+TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
