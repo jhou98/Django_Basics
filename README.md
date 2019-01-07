@@ -11,3 +11,7 @@ Learning Django
 [Django Tutorial 4](https://docs.djangoproject.com/en/2.1/intro/tutorial04/) - Added voting function to polls, created a results view and changed the views to use the Django Generic view 
 
 [Django Tutorial 5](https://docs.djangoproject.com/en/2.1/intro/tutorial05/) - Added tests for different views 
+
+### Things to Change for the Future
+- Have the virtual environment stored locally
+- Be more careful of Path dependencies 
